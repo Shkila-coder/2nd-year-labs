@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\obj\Debug\The3.3Laba.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\obj\Debug\The3.3Laba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\obj\Debug\The3.3Laba.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\bin\Debug\The3.3Laba.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\bin\Debug\The3.3Laba.exe
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\bin\Debug\The3.3Laba.pdb
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\obj\Debug\The3.3Laba.exe
+C:\Users\Пользователь\source\repos\the1stC#\The3.3Laba\obj\Debug\The3.3Laba.pdb

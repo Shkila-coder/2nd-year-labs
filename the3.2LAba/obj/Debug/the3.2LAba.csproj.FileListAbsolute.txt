@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\bin\Debug\the3.2LAba.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\bin\Debug\the3.2LAba.exe
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\bin\Debug\the3.2LAba.pdb
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3.2LAba.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3.2LAba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3._2LAba.Form1.resources
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3._2LAba.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3.2LAba.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3.2LAba.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3.2LAba.exe
+C:\Users\Пользователь\source\repos\the1stC#\the3.2LAba\obj\Debug\the3.2LAba.pdb

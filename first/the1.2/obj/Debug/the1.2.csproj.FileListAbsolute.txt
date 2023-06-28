@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\bin\Debug\the1.2.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\bin\Debug\the1.2.exe
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\bin\Debug\the1.2.pdb
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\obj\Debug\the1.2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\obj\Debug\the1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\obj\Debug\the1.2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\obj\Debug\the1.2.exe
+C:\Users\Пользователь\source\repos\the1stC#\the1.2\obj\Debug\the1.2.pdb

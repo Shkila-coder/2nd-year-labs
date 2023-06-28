@@ -1,0 +1,3 @@
+C:\Users\Пользователь\source\repos\the1stC#\the1.5\obj\Debug\the1.5.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1.5\obj\Debug\the1.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1.5\obj\Debug\the1.5.csproj.CoreCompileInputs.cache

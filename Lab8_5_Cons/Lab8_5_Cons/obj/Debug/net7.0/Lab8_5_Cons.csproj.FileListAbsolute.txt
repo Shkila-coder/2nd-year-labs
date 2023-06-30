@@ -1,0 +1,15 @@
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\bin\Debug\net7.0\Lab8_5_Cons.exe
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\bin\Debug\net7.0\Lab8_5_Cons.deps.json
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\bin\Debug\net7.0\Lab8_5_Cons.runtimeconfig.json
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\bin\Debug\net7.0\Lab8_5_Cons.dll
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\bin\Debug\net7.0\Lab8_5_Cons.pdb
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.csproj.AssemblyReference.cache
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.AssemblyInfoInputs.cache
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.AssemblyInfo.cs
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.csproj.CoreCompileInputs.cache
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.dll
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\refint\Lab8_5_Cons.dll
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.pdb
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\Lab8_5_Cons.genruntimeconfig.cache
+C:\Users\Fin\RiderProjects\Lab8_5_Cons\Lab8_5_Cons\obj\Debug\net7.0\ref\Lab8_5_Cons.dll

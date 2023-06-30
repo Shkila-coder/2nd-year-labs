@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\bin\Debug\the1ndLaba.exe.config
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\bin\Debug\the1ndLaba.exe
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\bin\Debug\the1ndLaba.pdb
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the2ndLaba.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the2ndLaba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.Form1.resources
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.Form2.resources
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the2ndLaba.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the2ndLaba.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.exe
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.pdb
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.Form3.resources
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.Form4.resources
+C:\Users\Пользователь\source\repos\the1stC#\the1ndLaba\obj\Debug\the1ndLaba.Form5.resources
